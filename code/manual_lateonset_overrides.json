@@ -1,0 +1,13 @@
+{
+  "_comment": "Late-onset trials with a KNOWN expert-vetted label (5-set gold + the late-onset members of the 10-set). Non-late-onset vetted cases (NCT00397579 OOS scope; NCT01920061 combination; NCT03340974/NCT05120570 OBD) are excluded here — they don't route through mtd_late_onset.",
+  "vetted": {
+    "NCT01307267": {"label": "TITE-BOIN", "why": "5-set: W=56, stagger 3-7 -> A/I 8-18.7 -> M1 TITE"},
+    "NCT02481310": {"label": "BOIN",      "why": "5-set: slow ATD accrual -> A/I<2 -> M1 BOIN"},
+    "NCT02787642": {"label": "TITE-BOIN", "why": "5-set: A/I~2.2 gray -> M2 fires -> TITE"},
+    "NCT02888665": {"label": "TITE-BOIN", "why": "5-set: W=63 combination clock -> A/I high / M2 -> TITE"},
+    "NCT03641547": {"label": "TITE-BOIN", "why": "5-set: governing stage B -> A/I~7 -> TITE"},
+    "NCT01147965": {"label": "TITE-BOIN", "why": "10-set: cadence W=63, gate day 21 < 63 -> TITE"},
+    "NCT02215967": {"label": "TITE-BOIN", "why": "10-set/spec M2 exemplar: gate 14 < W 60 -> TITE"},
+    "NCT00002663": {"label": "BOIN",      "why": "10-set: cohort-gated, W=70 -> A/I<=1 -> BOIN"}
+  }
+}
