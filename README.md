@@ -1,7 +1,7 @@
 # TrialDesignBench
 
 Code and data for **TrialDesignBench: Benchmarking Language Models for Phase-I
-Trial Design Against Clinical Knowledge**, a benchmark for evaluating large
+Trial Design Against Clinical Knowledge**, an expert-validated benchmark for evaluating large
 language models on Phase-I / Phase-I–II oncology dose-finding trial
 *design-method selection*.
 
